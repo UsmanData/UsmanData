@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Usman 👋
 
-<!--
-**UsmanData/UsmanData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | SQL & Excel | Power BI | Python
 
-Here are some ideas to get you started:
+I'm a Data Analyst focused on transforming raw data into clear, actionable insights. I enjoy exploring business problems, analyzing data, and building dashboards that communicate findings effectively.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 What I Do
+
+- Clean, transform, and validate data for analysis
+- Perform exploratory and advanced data analysis
+- Analyze trends, performance, and customer behavior
+- Build interactive dashboards and KPI reports
+- Translate data findings into clear business insights
+
+### 🛠️ Skills & Tools
+
+- **SQL:** PostgreSQL, Exploratory Data Analysis, Advanced Analytics, CTEs, Window Functions
+- **Excel:** Data Cleaning, Pivot Tables, Advanced Formulas, Dynamic Dashboards, Data Visualization
+- **Power BI:** Power Query, DAX, Data Modeling, Interactive Dashboards, KPI Reporting
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn
+- **Analytics:** Data Cleaning, EDA, Trend Analysis, Customer Segmentation, Performance Analysis, Data Visualization
+
+### 🎯 Currently Learning
+Continuously strengthening my skills in SQL, Power BI, Excel, and Python while building practical, business-focused data analytics projects.
